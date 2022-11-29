@@ -14,5 +14,5 @@ The project builds on the repositories, tools and results of five EU-funded proj
 
 RadioVal will develop a comprehensive and standardised methodological framework for multi-faceted radiomics evaluation based on the FUTURE-AI Guidelines, to assess Fairness, Universality, Traceability, Usability, Robustness and Explainability. The project will also introduce new tools to enable transparent and continuous evaluation and monitoring of the radiomics tools over time. The RadioVal study will be implemented through a multi-stakeholder approach, taking into account clinical and healthcare needs, as well as socio-ethical and regulatory requirements from day one.
 
-<img src="radioval_logo_white_background.jpg" alt="drawing" width="200"/>  <img src="Flag_of_Europe.png" alt="drawing" width="100"/>
+<img src="radioval_logo_white_background.jpg" alt="drawing" width="200"/>  <img src="Flag_of_Europe.png" alt="drawing" width="90"/>
 
